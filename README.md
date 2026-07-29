@@ -69,7 +69,7 @@ Users can browse different workout categories and choose exercises based on thei
 Each exercise includes detailed instructions, targeted muscle groups, and execution guidance.
 
 <p align="center">
-  <img src="screenshots/exercise_details.png" width="300"/>
+  <img src="screenshots/bench_press.png" width="300"/>
 </p>
 
 ---
