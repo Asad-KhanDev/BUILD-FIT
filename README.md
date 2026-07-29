@@ -59,7 +59,7 @@ The home screen provides quick access to workout categories, daily statistics, X
 Users can browse different workout categories and choose exercises based on their fitness goals.
 
 <p align="center">
-  <img src="screenshots/workout_categories.png" width="300"/>
+  <img src="screenshots/muscle.png" width="300"/>
 </p>
 
 ---
