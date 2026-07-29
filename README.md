@@ -14,3 +14,5 @@
 Professional Android Fitness Application
 
 ████████████████████████████
+
+BUILD FIT is a premium Android fitness application designed to help users stay consistent with their fitness journey. It combines structured workout plans, intelligent progress tracking, daily challenges, achievements, and a clean dark-themed interface to provide a motivating and user-friendly experience.
