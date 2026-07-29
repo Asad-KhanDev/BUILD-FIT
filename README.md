@@ -91,7 +91,7 @@ The built-in workout timer helps users accurately track exercise duration and re
 - Material Components
 - SharedPreferences
 
-- ## 🏗 Architecture
+  ## 🏗 Architecture
 
 The application follows a traditional Java + XML Android architecture with separate Activities, models, adapters, and utility classes to keep the code organized and maintainable.
 
