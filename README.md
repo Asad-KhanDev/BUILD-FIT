@@ -81,3 +81,39 @@ The built-in workout timer helps users accurately track exercise duration and re
 <p align="center">
   <img src="screenshots/timer.png" width="300"/>
 </p>
+
+## 🛠 Tech Stack
+
+- Java
+- XML
+- Android Studio
+- RecyclerView
+- Material Components
+- SharedPreferences
+
+- ## 🏗 Architecture
+
+The application follows a traditional Java + XML Android architecture with separate Activities, models, adapters, and utility classes to keep the code organized and maintainable.
+
+## 📥 Installation
+
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Sync Gradle.
+4. Build and run on an Android device or emulator.
+
+ ## 🚀 Future Roadmap
+
+- BuildFit Coach AI
+- AI Workout Generator
+- AI Nutrition Planner
+- Firebase
+- Cloud Sync
+
+- ## 👨‍💻 Developer
+
+**Asad Ali Khan**
+
+Computer Science Student
+
+Android & AI Application Developer
