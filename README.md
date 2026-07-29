@@ -41,3 +41,43 @@ BUILD FIT is a premium Android fitness application designed to help users stay c
 - Responsive UI
 - Smooth animations
 - Professional dashboard
+
+- ## 📸 Application Preview
+
+### 🏠 Dashboard
+
+The home screen provides quick access to workout categories, daily statistics, XP level, challenges, and progress summaries through a modern dark-themed interface.
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="300"/>
+</p>
+
+---
+
+### 💪 Workout Categories
+
+Users can browse different workout categories and choose exercises based on their fitness goals.
+
+<p align="center">
+  <img src="screenshots/workout_categories.png" width="300"/>
+</p>
+
+---
+
+### 🏋️ Exercise Details
+
+Each exercise includes detailed instructions, targeted muscle groups, and execution guidance.
+
+<p align="center">
+  <img src="screenshots/exercise_details.png" width="300"/>
+</p>
+
+---
+
+### ⏱️ Workout Timer
+
+The built-in workout timer helps users accurately track exercise duration and rest periods.
+
+<p align="center">
+  <img src="screenshots/timer.png" width="300"/>
+</p>
