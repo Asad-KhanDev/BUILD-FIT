@@ -144,7 +144,7 @@ Download the latest release APK and explore the application's premium interface,
 
 <p align="center">
 
-<a href="PASTE_RELEASE_LINK_HERE">
+<a href="sha256:fad77b3c9a39c6f647c75b0106e208a3a129ddd455f7a14acb0321b76f00b90d">
 <img src="https://img.shields.io/badge/⬇️%20Download-BUILD%20FIT%20APK-success?style=for-the-badge"/>
 </a>
 
